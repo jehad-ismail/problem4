@@ -16,7 +16,7 @@ int main()
 	
 	cout << "sum =  " << add << endl << "subtraction =  " << sub << endl << " multiplication =  " << mult << endl << "division =  " << div << endl;
 
-
-
 	return 0;
 }
+//Write a program that takes two numbers from the user and prints the
+results of addition, subtraction, multiplication, and division.
